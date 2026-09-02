@@ -7,7 +7,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>fr.paris.lutece.plugins</groupId>
     <artifactId>library-jmx-api</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.1</version>
     <name>Lutece JMX API library</name>
     <description>Lutece JMX API library</description>
     
@@ -43,5 +43,6 @@
         <connection>scm:git:https://github.com/lutece-platform/lutece-system-library-jmx-api.git</connection>
         <developerConnection>scm:git:https://github.com/lutece-platform/lutece-system-library-jmx-api.git</developerConnection>
         <url>https://github.com/lutece-platform/lutece-system-library-jmx-api.git</url>
-    </scm>
+      <tag>library-jmx-api-1.0.1</tag>
+  </scm>
 </project>
