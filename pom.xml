@@ -36,6 +36,12 @@
     </repositories>
 	
     <dependencies>
+        <dependency>
+            <groupId>fr.paris.lutece.plugins</groupId>
+            <artifactId>library-lutece-unit-testing</artifactId>
+            <type>jar</type>
+            <scope>test</scope>
+        </dependency>
     </dependencies>
     
     <scm>
