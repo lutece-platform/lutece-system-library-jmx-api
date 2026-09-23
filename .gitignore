@@ -5,3 +5,9 @@ java.io.tmpdir/
 .settings/
 .project
 .classpath
+.migration/
+e2e/
+*.log
+.claude/
+CLAUDE.md
+AGENTS.md
